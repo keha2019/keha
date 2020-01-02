@@ -6577,6 +6577,10 @@ button.bg-light:focus {
   background-color: #dae0e5 !important;
 }
 
+.bg-darkgreen {
+  background-color: #19571f !important;
+}
+
 .bg-dark {
   background-color: #343a40 !important;
 }
